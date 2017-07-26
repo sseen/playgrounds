@@ -3,6 +3,7 @@
 import UIKit
 import PlaygroundSupport
 
+
 func printIfTrue(predicate: ()-> Bool){
     if predicate(){
         print("the result is true")
@@ -70,4 +71,9 @@ let jsonString = """
 let jsonData = jsonString.data(using: .utf8)!
 let decoder = JSONDecoder()
 let beer = try! decoder.decode(Beer.self, from: jsonData)
+
+let encoder = JSONEncoder()
+encoder.outputFormatting = .prettyPrinted
+let data = try! encoder.encode(beer)
+print(String(data: data, encoding: .utf8)!)
 
