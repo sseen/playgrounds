@@ -3,23 +3,33 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/zyang/SNProject/playgrounds/MyPlayground.playground#CharacterRangeLen=104&amp;CharacterRangeLoc=221&amp;EndingColumnNumber=31&amp;EndingLineNumber=18&amp;StartingColumnNumber=0&amp;StartingLineNumber=14&amp;Timestamp=518669774.033779"
+         documentLocation = "file:///Users/zyang/SNProject/playgrounds/MyPlayground.playground#CharacterRangeLen=104&amp;CharacterRangeLoc=246&amp;EndingColumnNumber=31&amp;EndingLineNumber=19&amp;StartingColumnNumber=0&amp;StartingLineNumber=15&amp;Timestamp=522760397.427697"
          lockedSize = "{420, 90}"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/zyang/SNProject/playgrounds/MyPlayground.playground#CharacterRangeLen=104&amp;CharacterRangeLoc=221&amp;EndingColumnNumber=31&amp;EndingLineNumber=18&amp;StartingColumnNumber=0&amp;StartingLineNumber=14&amp;Timestamp=518669774.033959"
+         documentLocation = "file:///Users/zyang/SNProject/playgrounds/MyPlayground.playground#CharacterRangeLen=104&amp;CharacterRangeLoc=246&amp;EndingColumnNumber=31&amp;EndingLineNumber=19&amp;StartingColumnNumber=0&amp;StartingLineNumber=15&amp;Timestamp=522760397.427895"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/zyang/SNProject/playgrounds/MyPlayground.playground#CharacterRangeLen=104&amp;CharacterRangeLoc=221&amp;EndingColumnNumber=31&amp;EndingLineNumber=18&amp;StartingColumnNumber=0&amp;StartingLineNumber=14&amp;Timestamp=518669774.034106"
+         documentLocation = "file:///Users/zyang/SNProject/playgrounds/MyPlayground.playground#CharacterRangeLen=104&amp;CharacterRangeLoc=246&amp;EndingColumnNumber=31&amp;EndingLineNumber=19&amp;StartingColumnNumber=0&amp;StartingLineNumber=15&amp;Timestamp=522760397.428043"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/zyang/SNProject/playgrounds/MyPlayground.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=0&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=518669774.034246"
+         documentLocation = "file:///Users/zyang/SNProject/playgrounds/MyPlayground.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=0&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=522760397.42819"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/zyang/SNProject/playgrounds/MyPlayground.playground#CharacterRangeLen=251&amp;CharacterRangeLoc=1460&amp;EndingColumnNumber=57&amp;EndingLineNumber=71&amp;StartingColumnNumber=0&amp;StartingLineNumber=60&amp;Timestamp=522760397.428332"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/zyang/SNProject/playgrounds/MyPlayground.playground#CharacterRangeLen=4&amp;CharacterRangeLoc=1659&amp;EndingColumnNumber=9&amp;EndingLineNumber=71&amp;StartingColumnNumber=5&amp;StartingLineNumber=71&amp;Timestamp=522760397.428479"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
